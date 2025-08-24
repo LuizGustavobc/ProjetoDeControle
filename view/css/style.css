@@ -1,0 +1,34 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22 de ago. de 2025, 16:13:26
+    Author     : luizg
+*/
+
+
+    .login-page {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #45a049;
+    }
+
+    .login-container {
+      background: rgba(255,255,255,0.9);
+      padding: 30px;
+      border-radius: 8px;
+      width: 300px;
+    }
+
+    .login-container h1 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .login-container input, .login-container button {
+      width: 100%;
+      margin: 8px 0;
+      padding: 10px;
+    }
