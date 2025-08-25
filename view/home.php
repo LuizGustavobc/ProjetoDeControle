@@ -9,7 +9,7 @@
   <?=include 'header.html'?>
 
   <main class="content">
-    <h1>Bem-vindo ao Sítio Frutas 🍓</h1>
+    <h1>Bem-vindo</h1>
     <section class="cards">
       <div class="card">
         <h3>Lucro do mês</h3>
@@ -27,10 +27,10 @@
 
     <section>
       <h2>Alertas 🚨</h2>
-      <ul>
-        <li>Colheita de bananas próxima do limite de armazenamento.</li>
-        <li>Pagamento de fornecedores vence em 3 dias.</li>
-      </ul>
+      <section id="warings">
+          <h2>Alerta1</h2>
+          <hr>
+      </section>
     </section>
   </main>
 
